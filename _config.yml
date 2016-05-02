@@ -1,7 +1,7 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: Space Takos with Samuel!
+description: My Twisty Turny Life as a Fourth Grader!
+keywords:
+author: Samuel Hedgpeth
+baseurl: "samuelhedgpeth.github.io"
+url: "http://samuelhedgpeth.github.io" 
