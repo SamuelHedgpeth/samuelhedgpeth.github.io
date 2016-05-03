@@ -1,8 +1,0 @@
----
-title:  "Intro to Space Takos"
-subtitle: "Intro to My Awesome Blog"
-author: "Samuel Hedgpeth"
-avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
-date:   
----
