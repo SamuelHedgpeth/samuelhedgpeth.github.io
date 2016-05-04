@@ -12,7 +12,7 @@ url: "http://samuelhedgpeth.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: 
+baseurl: samuelhedgpeth.github.io
 
 # Google tracking id to track your visitors
 
@@ -32,7 +32,7 @@ lang: "en"
 author: "Samuel Hedgpeth"
 title: "{ Space Takos with Samuel }"
 description: "WHO WANTS SPACE TAKOS?"
-keywords: "space, takos"
+keywords: "space, takos, moon, mars, solar system"
 favicon: "/img/favicon.ico"
 
 ################
@@ -124,7 +124,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "samuel.hedgpeth@gmail.com"
+email: "samuel.hedgpeth@outlook.com"
 
 ################
 # Author Blurb #
@@ -134,7 +134,7 @@ email: "samuel.hedgpeth@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Samuel lives in Texas, and he sure does love himself some takos. He loves to draw, write, and code."
 author_blurb_image: "/img/author.png"
 
 ##################
