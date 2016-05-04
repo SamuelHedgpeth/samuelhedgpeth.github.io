@@ -56,7 +56,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Do space takos come from the Moon or Mars?"
-  - text: "Let's get WEIRD, folks!"
+  - text: "I guess it's just one of those impossible mysteries..."
 
 me-img: "/img/jetpacktocat.png"
 
